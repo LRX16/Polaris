@@ -1,0 +1,11 @@
+{
+  "name": "Polaris",
+  "description": "AI Mock Interview prep with real-time camera coaching, speech & gesture feedback, and custom career roadmaps.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
