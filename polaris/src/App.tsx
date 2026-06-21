@@ -616,7 +616,7 @@ export default function App() {
             </div>
             <div>
               <div className="flex items-center gap-1.5 leading-none">
-                <span className="text-xl font-black text-white tracking-widest font-mono select-none">POLARIS</span>
+                <span className="text-xl font-black text-white tracking-widest font-mono select-none">POLARIS (Prototype)</span>
                 <span className="text-[10px] bg-cyan-500/10 border border-cyan-400/30 text-cyan-400 px-1.5 py-0.5 rounded font-mono font-bold leading-none uppercase">AI MOCK</span>
               </div>
               <span className="text-[10px] font-mono text-slate-400 uppercase tracking-widest block mt-1">BY TEAM UNDERDOGS</span>
@@ -628,7 +628,7 @@ export default function App() {
             <div className="flex items-center gap-1.5 bg-slate-900 border border-slate-800 rounded px-2.5 py-1 text-slate-400">
               <HardDrive className="w-3.5 h-3.5 text-cyan-400" />
               <span>DB STATUS:</span>
-              <span className="text-emerald-400 font-bold">ONLINE (PostgreSQL)</span>
+              <span className="text-emerald-400 font-bold">ONLINE</span>
             </div>
 
             <div className="flex items-center gap-1.5 bg-slate-900 border border-slate-800 rounded px-2.5 py-1 text-slate-400">
