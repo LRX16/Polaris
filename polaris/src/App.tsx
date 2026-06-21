@@ -769,7 +769,7 @@ export default function App() {
       {/* 3. FOOTER */}
       <footer className="border-t border-slate-900 bg-slate-950 py-4 text-center text-[10px] font-mono text-slate-500">
         <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row justify-between items-center gap-2">
-          <span>POLARIS COGNITIVE LABS COPYRIGHT 2026</span>
+          <span>PROTOTYPE SIMULATION</span>
           <span className="flex gap-2">
             <span className="text-slate-750">SECURE SHELL</span> • 
             <span className="text-emerald-500 flex gap-1 items-center">● INFRASTRUCTURE COMPILING OK</span>
